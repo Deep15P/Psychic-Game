@@ -1,2 +1,2 @@
 # Psychic-Game
-Guess the word!
+Guess the letter!
