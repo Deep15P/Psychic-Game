@@ -49,7 +49,7 @@ document.onkeyup = function (event) {
     userChoicesEmpty.push(event.key);
 
 
-    userGuessText.textContent = "You chose: " + userChoicesEmpty;
+    userGuessText.textContent = "Your guess: " + userChoicesEmpty;
     numberGuessesText.textContent = "Guesses Left: " + numberGuesses;
     winsText.textContent = "Wins: " + wins;
     lossesText.textContent = "Losses: " + losses;
